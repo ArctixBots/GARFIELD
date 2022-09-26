@@ -58,7 +58,7 @@ You can use it without any hesitation
    <br>
   🦋 After Scan Garfield QR for Whatsapp Multi device beta (24 Hour Activation)
    <br>
-   🦋 After fork this repo Clicking [Here](https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8/fork) and replace your session.js on it
+   🦋 After fork this repo Clicking [Here](https://github.com/royce-b/GARFIELD/fork) and replace your session.js on it
      <br>
     🦋 After (Config.js) Enter Your details and Create this file using your information and a bot name of your choice
    <br> 
@@ -131,14 +131,14 @@ Also I am Student
     
     
   <h1> Telegram 💡</h1>
-Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
+Join our Telegram helping group <a href="https://t.me/krakinzc">Join Now</a>
   <h1>Watch Video 📽️</h1>
      Watch on Youtube <a href="https://youtu.be/OY_75SjPZSQ">Click now</a>
 
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://telegra.ph/file/701702e9a949b18b6c59d.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Royce Ξ Bob</th></tr><tr><td><a href="https://github.com/royce-bob"><img src="https://telegra.ph/file/765fec2d8142b2d2e360a.jpg" width="180"</td></tr></b>
 
 
 
