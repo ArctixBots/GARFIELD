@@ -1,3 +1,4 @@
+// coded with love by Royce Bob
 const fs = require('fs')
   let _limitOrg = JSON.parse(fs.readFileSync('./storage/user/limit.json'))
   let limitAwal = global.limitawal.free
