@@ -1,11 +1,11 @@
 // Hi  I m
-// Tharindu Liyanage 
-// I am 16 years old developer...
-// From Sri Lanka
+// Royce Bob
+// I am 22 years old developer...
+// From Kenya 
 // I am a Learning.
 // Not more..
 // Also I am Student
-// Follow My Facebook - https://www.facebook.com/TharinduLiyanages
+// Follow My Facebook - https://www.facebook.com/royceplusbob
 require('./DataFile')
 require('./Buttons')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
