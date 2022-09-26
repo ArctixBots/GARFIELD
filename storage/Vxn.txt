@@ -1,7 +1,7 @@
-ＧＡＲＦＩＥＬＤ ＢＯＴv8.3 🐼// 👈 You Can change this your choice
+ＧＡＲＦＩＥＬＤ ＢＯＴv-8.0 🐼 // 👈 You Can change this your choice
 ＲＥＰＬＡＣＥ  ＹＯＵＲ   ＦＩＬＥ  🦋
-https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8
-//Coded by Tharindu Liyanage
+https://github.com/royce-be/GARFIELD
+//Coded by Royce Bob
 //Replace the file that came with the Qr scan 
 //Enter Your Session.json
-GARFIELD v8.2 BY NOIZE PROJECTS 🐼
+GARFIELD v8.2 BY ROYCE PROJECTS 🐼
